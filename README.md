@@ -1,7 +1,3 @@
-Here’s a **clean, professional, and complete project description** for your **AI Safety & Security System**, including a clear explanation of tools used (like Google Colab) and why.
-
----
-
 # **AI Safety System — Intelligent Audio-Visual Critical Event Detection**
 
 ## **Project Description (Improved & Professional)**
@@ -55,20 +51,6 @@ Used to build and train the AI models, such as:
 * Real-time video stream handling
 * Object/motion detection
 * Preprocessing and visualization
-
-### **5. Librosa**
-
-* For audio signal processing
-* Extracting MFCCs, spectrograms, frequency features
-
-### **6. YOLO / FastRCNN (Optional)**
-
-* For real-time object and action detection
-* Helps identify fights, fire, or suspicious behavior
-
-### **7. Scikit-learn**
-
-* For evaluation metrics, data splitting, preprocessing
 
 ### **8. Google Drive Integration**
 
