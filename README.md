@@ -1,6 +1,6 @@
 # **AI Safety System — Intelligent Audio-Visual Critical Event Detection**
 
-## **Project Description (Improved & Professional)**
+## **Project Description**
 
 Traditional surveillance systems rely mainly on human operators, which often leads to delayed responses or missed incidents—especially in high-pressure environments. Our project solves this problem by introducing an **AI-powered safety and security system** that can automatically detect **critical or abnormal events** using **audio-visual analysis**.
 
