@@ -2,7 +2,7 @@
 
 ## **Project Description**
 
-Traditional surveillance systems rely mainly on human operators, which often leads to delayed responses or missed incidents—especially in high-pressure environments. Our project solves this problem by introducing an **AI-powered safety and security system** that can automatically detect **critical or abnormal events** using **audio-visual analysis**.
+Traditional surveillance systems rely mainly on human operators, which often leads to delayed responses or missed incidents—especially in high-pressure environments. Our project solves this problem by introducing an **AI-powered safety and security system** that can automatically detect **critical or abnormal events** using **image and audio-visual analysis**.
 
 The system processes **Images and environmental sounds** at the same time, allowing it to identify emergencies such as:
 
